@@ -1,0 +1,8 @@
+# Schema for the configuration files of the Custom_Node_export module.
+custom_node_export.settings:
+  type: config_object
+  label: 'Custom_Node_export settings'
+  mapping:
+    example:
+      type: string
+      label: 'Example'

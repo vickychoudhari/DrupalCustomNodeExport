@@ -1,0 +1,6 @@
+custom_node_export.settings_form:
+  title: 'Custom_Node_export'
+  description: 'Configure Custom_Node_export.'
+  parent: system.admin_config_system
+  route_name: custom_node_export.settings_form
+  weight: 10
